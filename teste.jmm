@@ -1,0 +1,7 @@
+class foo{
+
+    public static void fazer(){
+        System.out.println("ola mundo");
+    } 
+
+}
