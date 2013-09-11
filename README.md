@@ -7,7 +7,7 @@ This is a important project to students of compilers.
 ![Bocejo logo](./Bocejo.png)
 
 ## When, where and whose
-The project was done in 2011, at [UFJF](http://www.ufjf.br) by 3 computer science students; Me, Bruno guimarães (@brunoguic) and Jônatas Castro. For now, it is over GPL3 license.
+The project was done in 2011, at [UFJF](http://www.ufjf.br) by 3 computer science students; Me, [Bruno guimarães](http://github.com/brunoguic) and Jônatas Castro. For now, it is over GPL3 license.
 
 ## Requirements
 
